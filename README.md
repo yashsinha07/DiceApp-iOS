@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Dicee
@@ -29,3 +30,7 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 ![End Banner](Documentation/readme-end-banner.png)
 
+=======
+# DiceApp-iOS
+Generates random numbers on dice on each button click.
+>>>>>>> refs/remotes/origin/master
